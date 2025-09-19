@@ -1,6 +1,7 @@
 BYD DOLPHIN SURF LANDING PAGE
 
-🎯 Key Features of the New README:
+🎯 Key Features:
+
 📋 Simple & Professional Format
 Clean title and description
 Organized sections with clear headings
